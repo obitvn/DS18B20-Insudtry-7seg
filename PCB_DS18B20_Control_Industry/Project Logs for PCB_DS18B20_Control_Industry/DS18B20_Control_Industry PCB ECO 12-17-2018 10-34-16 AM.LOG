@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RELAY_SSR_A Pin=C22-2
+Removed Pin From Net: NetName=RELAY_LIGHT Pin=C24-2
+Removed Pin From Net: NetName=RELAY_SSR_A Pin=U1-30
+Removed Pin From Net: NetName=RELAY_LIGHT Pin=U1-32
+Added Pin To Net: NetName=RELAY_LIGHT Pin=C22-2
+Added Pin To Net: NetName=RELAY_SSR_A Pin=C24-2
+Added Pin To Net: NetName=RELAY_LIGHT Pin=U1-30
+Added Pin To Net: NetName=RELAY_SSR_A Pin=U1-32
+Added Room: Name=DS18B20_Control_Industry

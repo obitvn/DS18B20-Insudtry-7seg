@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=SW1 Old Footprint=BUTTON 4 Pin New Footprint=SW4_12x12
+Added Room: Name=DS18B20_Control_Industry

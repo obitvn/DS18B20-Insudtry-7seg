@@ -1,0 +1,23 @@
+stm8s_tim4.pbi: \
+  G:\CODE\Code\ C\ STM8\Libraries\STM8S_StdPeriph_Driver\src\stm8s_tim4.c \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_tim4.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc/stm8s.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\stm8s_conf.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_adc1.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_awu.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_beep.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_clk.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_exti.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_flash.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_gpio.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_i2c.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_itc.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_iwdg.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_rst.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_spi.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_tim1.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_tim2.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_uart1.h \
+  G:\CODE\Code\ C\ STM8\Project\DS18B20\ Insudtry\ 7seg\EWSTM8\..\..\..\Libraries\STM8S_StdPeriph_Driver\inc\stm8s_wwdg.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h

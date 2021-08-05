@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=e Pin=U1-18
+Removed Pin From Net: NetName=d Pin=U1-19
+Removed Pin From Net: NetName=h Pin=U1-20
+Removed Pin From Net: NetName=c Pin=U1-21
+Removed Pin From Net: NetName=g Pin=U1-22
+Removed Pin From Net: NetName=b Pin=U1-23
+Removed Pin From Net: NetName=a Pin=U1-24
+Removed Pin From Net: NetName=f Pin=U1-25
+Added Pin To Net: NetName=a Pin=U1-18
+Added Pin To Net: NetName=b Pin=U1-19
+Added Pin To Net: NetName=c Pin=U1-20
+Added Pin To Net: NetName=d Pin=U1-21
+Added Pin To Net: NetName=e Pin=U1-22
+Added Pin To Net: NetName=f Pin=U1-23
+Added Pin To Net: NetName=g Pin=U1-24
+Added Pin To Net: NetName=h Pin=U1-25
+Added Room: Name=DS18B20_Control_Industry
